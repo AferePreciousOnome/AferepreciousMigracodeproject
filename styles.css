@@ -138,8 +138,8 @@ color: #272726;
   line-height: 1.88889;
   color: #555753; 
   background:rgb(253,214,161);
-  margin-left:100px;
-  margin-right: 100px; 
+  margin-left:50px;
+  margin-right: 50px; 
   padding: 0;
   line-height:1.5em;
   }
@@ -177,7 +177,6 @@ line-height:1.8em;
     width: 80%;
     max-width: 1200px;
     padding: 20px;
-    background-color:rgb(133,85,21);
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
   }
 
