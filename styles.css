@@ -172,19 +172,13 @@ line-height:1.8em;
     
   }
 
-  .content-wrapper{
-    position: relative;
-    width: 80%;
-    max-width: 1200px;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  }
+
 
   #flag{
     padding:12px 5px;
     position:relative;
     top:20px;
-    left:700px;
+    left:500px;
     height:50px;
     bottom:12px;
   }
